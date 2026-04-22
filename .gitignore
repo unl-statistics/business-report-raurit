@@ -4,3 +4,4 @@ scenario-data-bkup
 **/*.quarto_ipynb
 draft-data-doc.qmd
 NTAD_National_Bridge_Inventory_5655614151403109778.csv
+.Rhistory

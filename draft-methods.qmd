@@ -21,6 +21,9 @@ library(ggplot2)
   - we will choose the top 5 "closest" bridges
   - talk about them individually in the results section
 
+  
+To flag potential bridges at risk, 
+
 ```{r Data Wrangling}
 #| code-fold: true
 
